@@ -1,0 +1,7 @@
+"Trx Date Time","Order No","Customer Email",Currency,Amount,Status,FDS,"Card holder name","Promo code","First 6.","Last 4","Card Type","Acquirer Response Code","Acquirer Response Message"
+"2019-04-16 00:01:35",MY111,s@hotmail.com,MYR,145.76,created,P,,,,,OTHER,,
+"2019-04-16 00:02:55",SG222_222,j@hotmail.com,SGD,162.52,paid,,"TE",,326588,3752,VISA,0,"APPROVED OR COMPLETED"
+"2019-04-16 00:03:28",SG333_333,i@gmail.com,SGD,9.90,paid,,"Sea",,314916,4742,MASTERCARD,0,"APPROVED OR COMPLETED"
+"2019-04-16 00:03:40",SG444_444,c@qq.com,SGD,41.89,paid,,"Nic",,311911,5672,VISA,0,"APPROVED OR COMPLETED"
+"2019-04-16 00:03:57",SG555_555,y@gmail.com,SGD,50.00,paid,,"Nor",,354415,2944,VISA,0,"APPROVED OR COMPLETED"
+"2019-04-16 00:04:10",SG666_666,si@gmail.com,SGD,651.04,paid,,"Max",,352038,2068,MASTERCARD,0,"APPROVED OR COMPLETED"
